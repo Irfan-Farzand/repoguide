@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36154644046",
+    "project_id": "repoguide-78df2",
+    "storage_bucket": "repoguide-78df2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36154644046:android:b3a4c55331635b234e951f",
+        "android_client_info": {
+          "package_name": "com.example.repoguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3eldafTuLvDoLGU1h3asqAyGfRllP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
